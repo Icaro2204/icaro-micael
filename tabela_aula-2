@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horário Aulas</title>
+
+    <style>
+        table, td, th {
+            border: 3.5px solid rgb(0, 130, 252);
+            border-collapse: collapse;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+
+</head>
+<table>
+    <thead>
+        <tr>
+            <td>🏫</td>
+            <td><b>Segunda</b></td>
+            <td> <b>Terça </b></td>
+            <td><b>Quarta</b></td>
+            <td><b>Quinta </b></td>
+            <td><b>Sexta </b></td>
+        </tr>
+        <tr>
+            <td>7h30</td>
+            <Td>Introdução de computação</Td>
+            <Td>geografia</Td>
+            <td>quimica</td>
+            <td>biologia</td>
+            <td>introdução a computação</td>
+            
+        </tr>
+        <tr>
+            <td>8h20</td>
+            <Td>introdução de computação</Td>
+            <Td>Educação Fisica</Td>
+            <td>fisica</td>
+            <td>biologia</td>
+            <td>introdução a computação</td>
+            
+        </tr>
+          <tr>
+            <td>8h20</td>
+            <Td>Educação fisica</Td>
+            <Td>Projeto de vida</Td>
+            <td>fisica</td>
+            <td>logica computacional</td>
+            <td>filosofia</td>
+           
+        </tr>
+          <tr>
+            <td>10h20</td>
+            <Td>geografia</Td>
+            <Td>ingles</Td>
+            <td>Projeto de vida</td>
+            <td>logica computacional</td>
+            <td>arte</td>
+            
+        </tr>
+          <tr>
+            <td>11h10</td>
+            <Td>matematica</Td>
+            <Td>artes</Td>
+            <td>historia</td>
+            <td>fisica</td>
+            <td>lingua portuguesa</td>
+            
+        </tr>
+          <tr>
+            <td>12h</td>
+            <Td>matematica</Td>
+            <Td>Educação financeira</Td>
+            <td>historai</td>
+            <td>matematica</td>
+            <td>lingua portuguesa</td>
+            
+        </tr>
+        
+            
+       
+    </thead>
