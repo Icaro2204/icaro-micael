@@ -1,0 +1,27 @@
+programa {
+  funcao inicio() {
+    cadeia nome
+    cadeia matematica
+    
+    escreva ("OLA MUNDO.... ")
+    escreva ("Como voce se chama: ")
+      leia (nome)
+      
+      escreva ("Seja bem vindo ", nome)
+      escreva (", sabe sulbtração? ")
+        leia (matematica)
+        
+          inteiro numero1, numero2,somar
+        
+        escreva("Ok, vamos fazer um calculo de subtração ")
+        escreva ("Informe um numero: ")
+          leia (numero1)
+        
+        escreva("Informe outro numero: ")
+          leia (numero2)
+        escreva("O calculo é: " , numero1 - numero2)
+
+
+
+  }
+}
